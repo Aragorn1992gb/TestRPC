@@ -1,0 +1,11 @@
+{
+  "name": "testrpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ganache-cli": "ganache-cli"
+  },
+  "author": "",
+  "license": "ISC"
+}
